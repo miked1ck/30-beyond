@@ -1,6 +1,6 @@
 # 30 and beyond
 
-*A bucket list I started on my 30th birthday... "Everybody dies but not everybody lives."*
+*A bucket list I started right before my 30th birthday [June 8]... "You ain't alive if you ain't living" – Big Sean*
 
 - [ ] Walk across a rope bridge Indiana Jones style
 - [ ] Drink a Guinness in Dublin
