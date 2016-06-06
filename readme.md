@@ -1,5 +1,7 @@
 # 30 and beyond
 
+A bucket list I started on my 30th birthday... "Everybody dies but not everybody lives."
+
 - [ ] Walk across a rope bridge Indiana Jones style
 - [ ] Drink a Guinness in Dublin
 - [X] Get a tattoo
