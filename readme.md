@@ -24,24 +24,24 @@ This is a project I started right before my 30th birthday (June 8, 2016) because
 *"You ain't alive if you ain't living" – Big Sean*
 
 - [ ] Walk across a rope bridge Indiana Jones style
-- [ ] Drink a Guinness in Dublin
+- [X] Drink a Guinness in Dublin
 - [X] Get a tattoo
 - [ ] Stay one night in a hostel
 - [ ] Visit a medieval castle
 - [ ] Ride a country-side bike to Stonehenge
 - [ ] Go skydiving
 - [ ] Fly in a hot air balloon
-- [ ] See flowing, molten lava with my own eyes
-- [ ] Buy a telescope
+- [X] See flowing, molten lava with my own eyes
+- [X] Buy a telescope
 - [ ] See Starry Night with my own eyes
 - [ ] Fall asleep on a grassy plain
 - [ ] Spend the night in a tree house
 - [ ] Try vegetarianism for 21 days
 - [ ] Fly first class around the world
 - [X] Get a pet
-- [ ] Read a book on a subject I had never thought of reading
+- [X] Read a book on a subject I had never thought of reading
 - [ ] Join a social etiquette class
-- [ ] Get married
+- [X] Get married
 - [ ] Live abroad for three months
 - [ ] Learn to play at least one song on the piano
 - [ ] Take a slow-paced road trip across the States
